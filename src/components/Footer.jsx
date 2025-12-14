@@ -1,6 +1,6 @@
 import Section from "./Section";
 import { socials } from "../constants";
-import { novacortex } from "../assets";
+import { brainwave } from "../assets";
 
 const Footer = () => {
   return (
@@ -8,14 +8,14 @@ const Footer = () => {
       <div className="container flex flex-col gap-10">
         <div className="flex justify-center">
           <a href="#hero" className="block w-[12rem]">
-            <img src={novacortex} width={190} height={40} alt="novacortex" />
+            <img src={brainwave} width={190} height={40} alt="Brainwave" />
           </a>
         </div>
         
         <div className="flex sm:justify-between justify-center items-center gap-10 max-sm:flex-col">
           <div className="flex flex-col gap-4">
             <p className="caption text-n-4 lg:block">
-              © {new Date().getFullYear()} NovaCortex AI. All rights reserved.
+              © {new Date().getFullYear()} Brainwave AI. All rights reserved.
             </p>
             <p className="caption text-n-4 lg:block">
               Revolutionizing the way you interact with AI
