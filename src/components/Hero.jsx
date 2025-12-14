@@ -25,7 +25,7 @@ const Hero = () => {
           <h1 className="h1 mb-6">
             Explore the Possibilities of&nbsp;AI&nbsp;Chatting with {` `}
             <span className="inline-block relative">
-              Brainwave{" "}
+              NovaCortex{" "}
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2"
@@ -36,8 +36,8 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleash the power of AI within Brainwave. Elevate your productivity and creativity
-            with Brainwave, the revolutionary AI chat application designed for the future.
+            Unleash the power of AI within novacortex. Elevate your productivity and creativity
+            with novacortex, the revolutionary AI chat application designed for the future.
           </p>
           <Button href="/pricing" white className="hover:scale-105 transition-transform duration-300">
             Get started now
