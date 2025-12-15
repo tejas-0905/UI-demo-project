@@ -1,12 +1,11 @@
-# 🎨 UI-Demo-Project
+#  UI Project
 
 A modern and visually appealing **UI demonstration project** built to showcase clean design, smooth animations, and responsive layouts using the latest frontend tooling. This project is ideal for **portfolio presentation**, **UI/UX practice**, and as a **starter template** for frontend applications.
 
 ---
 
 ## 🌐 Live Preview
-> *(Add your deployed link here if available)*  
-Example: https://ui-demo-project.vercel.app/
+https://ui-demo-project-two.vercel.app/
 
 ---
 
@@ -30,8 +29,6 @@ Example: https://ui-demo-project.vercel.app/
 - **Tailwind CSS**
 
 ---
-
-## 📁 Project Structure
 
 ## 📁 Project Structure
 
