@@ -68,6 +68,36 @@ git clone https://github.com/tejas-0905/UI-demo-project.git
 ```bash
 cd UI-demo-project
 ```
+### 3️⃣ Install Dependencies
+```bash
+npm install
+```
+### ▶️ Run the Project Locally
+```bash
+npm run dev
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
