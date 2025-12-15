@@ -32,19 +32,59 @@ Example: https://ui-demo-project.vercel.app/
 ---
 
 ## 📁 Project Structure
+
+## 📁 Project Structure
+
+```text
 UI-demo-project/
 │
 ├── public/
-│ └── assets (images, icons, etc.)
+│   └── assets/        # Images, icons, static files
 │
 ├── src/
-│ ├── components/
-│ ├── styles/
-│ ├── main.js
-│ └── App.js
+│   ├── components/    # Reusable UI components
+│   ├── styles/        # Global and custom styles
+│   ├── main.js        # Entry point
+│   └── App.js         # Root component
 │
 ├── index.html
 ├── package.json
 ├── tailwind.config.js
 ├── postcss.config.js
 └── vite.config.js
+
+```
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/tejas-0905/UI-demo-project.git
+```
+
+
+### 2️⃣ Navigate to Project Directory
+```bash
+cd UI-demo-project
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
